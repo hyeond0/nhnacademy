@@ -7,9 +7,9 @@ NHN 아카데미에서 배운 내용을 기록합니다.
 
 |**기간**| **내용**| **바로가기** |
 |---|---|---|
-|24.01.02 ~ 24.01.07 | Java Network Programming |  |
-|24.01.08 ~ 24.01.14 | Database |  |
-|24.01.15 ~ 24.01.21 | HTML/CSS/Javascript, Servlet |  |
+|24.01.02 ~ 24.01.07 | Java Network Programming | [1주차](https://github.com/hyeond0/nhnacademy/tree/master/week1) |
+|24.01.08 ~ 24.01.14 | Database | [2주차](https://github.com/hyeond0/nhnacademy/tree/master/week2) |
+|24.01.15 ~ 24.01.21 | HTML/CSS/Javascript, Servlet | [3주차](https://github.com/hyeond0/nhnacademy/tree/master/week3) |
 |24.01.22 ~ 24.01.28 | Servlet/JSP, JDBC |  |
 |24.01.29 ~ 24.02.11 | 프로젝트 |  |
 |24.02.12 ~ 24.02.18 | Spring Core |  |
